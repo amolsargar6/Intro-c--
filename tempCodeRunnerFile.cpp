@@ -1,0 +1,2 @@
+ter Character";
+    cin>>x;
